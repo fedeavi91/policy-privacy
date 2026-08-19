@@ -1,1 +1,1 @@
-# gestorefarmaci-privacy
+# policy-privacy
